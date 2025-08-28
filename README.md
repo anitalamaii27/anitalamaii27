@@ -31,9 +31,9 @@ Here are a few projects I've been working on:
 ---
 
 ## 🌍 Connect With Me
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
-- 🌐 Portfolio: [your-website-link]  
+- 📧 Email: [lamaianita27@gmail.com]  
+- 💼 LinkedIn: [(https://www.linkedin.com/in/anita-lamai-0b7128249/)]  
+- 🌐 Portfolio: [(https://anitalamaii27.github.io/Updated-My-Website-/)]  
 
 ---
 
