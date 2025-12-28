@@ -25,7 +25,7 @@ Here are a few projects I've been working on:
 - 💰 **Flask Expense Tracker** – Web-based expense tracker with summaries and budget features:  
   - [Version 1](https://ailamai25.pythonanywhere.com/)  
   - [Version 2](https://anitalamaii27.github.io/flask-expnse-tracker/)  
-- 📊 **Subscription Tracker** – Secure Flask web app for tracking personal subscriptions and recurring expenses: [View Project](https://subscription-tracker-qveq.onrender.com)  
+- 📊 **Subscription Tracker** – Secure Flask web app for tracking personal subscriptions and recurring expenses: [View Project](https://subscription-tracker-qveq.onrender.com/)  
 
 ---
 
